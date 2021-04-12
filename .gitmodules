@@ -1,0 +1,6 @@
+[submodule "stack-template-back"]
+	path = stack-template-back
+	url = git@github.com:mvoland/stack-template-back.git
+[submodule "stack-template-front"]
+	path = stack-template-front
+	url = git@github.com:mvoland/stack-template-front.git
